@@ -1,0 +1,2 @@
+" ignore case for Mac OSX for tab autocomplete 
+set completion-ignore-case On
