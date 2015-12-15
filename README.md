@@ -9,3 +9,6 @@ I'm actually using the Wiki on this one:
 
 * https://github.com/ereckers/dotfiles/wiki
 
+EXPERIMENTS
+
+1. edit README on master
