@@ -11,7 +11,13 @@ I'm actually using the Wiki on this one:
 
 EXPERIMENTS
 
-1. edit README on master
+This is what we're going to do:
 
-EXPERIMENTS 2
+1. create feature branch
+2. make 2 edits to feature branch
+3. checkout master branch
+4. make 1 edit to master branch
+5. checkout feature branch and make 1 edit
+6. trying the merge w/ squash commit
+
 
