@@ -20,4 +20,7 @@ This is what we're going to do:
 5. checkout feature branch and make 1 edit
 6. trying the merge w/ squash commit
 
+THESE are my master changes:
+
+1. add line 1 in master
 
