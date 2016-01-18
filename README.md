@@ -24,3 +24,8 @@ THESE are my master changes:
 
 1. add line 1 in master
 
+EDITS START
+
+1. add line 1 in branch
+2. add line 2 in branch
+3. add line 3 in branch
