@@ -2,6 +2,12 @@
 "" Ed Reckers Setup
 ""
 
+" Make `jj` and `jk` throw you into normal mode
+" Esc key replacement for Macbook's Touch Bar
+" https://csswizardry.com/2017/01/preparing-vim-for-apples-touch-bar/
+inoremap jj <esc>
+inoremap jk <esc>
+
 " Syntax highlighting
 :syntax on
 

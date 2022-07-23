@@ -14,13 +14,9 @@ fi
 export CLICOLOR=1
 #export LSCOLORS=ExFxBxDxCxegedabagacad
 
-# Connection aliases. Replicated as iTerm2 Profiles
-alias aliasname='ssh username@111.111.111.111 -p 7777'
-
-# alias ls='ls -GFh'
-# alias ls='ls -lat'
-# alias f='open -a Finder ./'  
-# alias flushdns='dscacheutil -flushcache;sudo killall -HUP mDNSResponder'
+if [ -f ~/.aliases ]; then
+    . ~/.aliases
+fi
 
 # The bash prompt
 

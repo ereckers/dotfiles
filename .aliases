@@ -1,0 +1,63 @@
+# Set personal aliases, overriding those provided by oh-my-zsh libs,
+# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+# users are encouraged to define aliases within the ZSH_CUSTOM folder.
+# For a full list of active aliases, run `alias`.
+#
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Replicated as iTerm2 Profiles
+alias sshdo='ssh ereckers@198.199.100.149 -p 51551'
+
+# alias ls='ls -GFh'
+alias lt='ls -lat'
+alias ll='ls -l'
+alias lh='ls -lh'
+alias l1='ls -1'
+# alias f='open -a Finder ./'
+# alias flushdns='dscacheutil -flushcache;sudo killall -HUP mDNSResponder'
+
+# Aliases and functions
+alias zcon="vi ~/.zshrc"
+
+# Navigational alias's
+#alias cd..="cd .."
+#alias de="cd ~/Desktop"
+#alias dl="cd !/Downloads"
+#alias ds="cd ~/Documents"
+#alias dev="cd ~/Desktop/Development"
+#alias proj="cd ~/Desktop/Development/Projects"
+#alias oss="cd ~/Desktop/Development/OSS"
+
+# Set vim as default
+alias vi=vim
+#alias svi='sudo vi'
+#alias vis='vim "+set si"'
+#alias edit='vim'
+
+# Github commands
+alias gb="git branch"
+alias gs="git status -s"
+alias gss="git status -s ."
+alias ga="git add"
+alias gc="git commit"
+alias gcm="git commit -m"
+#alias gcl="git clone"
+alias gl="git log"
+alias glo="git log --pretty=oneline"
+alias glu="git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short"
+alias gch="git checkout"
+alias gchm="git checkout master"
+#alias gt="git tag"
+#alias grs="git reset"
+#alias grv="git revert"
+#alias gm="git merge"
+alias gp="git push"
+#alias gpom="git push origin master"
+#alias gpu="git pull"
+#alias gpum="git pull origin master"
+#alias gprb="git pull --rebase origin master"
+alias gd="git diff"
+#alias gpo="git push origin"
+#alias gob="git checkout -b"
